@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1635233925574' stop='1635233949599'>
+    <name>Auotmate O365</name>
+    <title>Auotmate O365</title>
+    <test-cases>
+        <test-case start='1635233925574' status='passed' stop='1635233949596'>
+            <name> Outlook login</name>
+            <title> Outlook login</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

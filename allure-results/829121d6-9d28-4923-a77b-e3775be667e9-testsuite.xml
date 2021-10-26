@@ -1,0 +1,35 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1634126859070' stop='1634126876260'>
+    <name>way2automation banking application validation</name>
+    <title>way2automation banking application validation</title>
+    <test-cases>
+        <test-case start='1634126861329' status='passed' stop='1634126869100'>
+            <name>BankManager Login workflow validationFirstData</name>
+            <title>BankManager Login workflow validationFirstData</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1634126869103' status='passed' stop='1634126875457'>
+            <name>account page validation</name>
+            <title>account page validation</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1634126875459' status='pending' stop='1634126875464'>
+            <name>open customer page validationFirstData</name>
+            <title>open customer page validationFirstData</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Temporarily disabled with xit</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
